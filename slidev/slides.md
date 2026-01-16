@@ -382,19 +382,19 @@ layout: default
       <code class="px-2 py-1 rounded bg-white/5">fix:</code><span class="opacity-85">修 bug</span>
     </div>
 
-  <div class="flex items-center gap-2">
-    <code class="px-2 py-1 rounded bg-white/5">docs:</code><span class="opacity-85">文件</span>
-  </div>
-  <div class="flex items-center gap-2">
-    <code class="px-2 py-1 rounded bg-white/5">chore:</code><span class="opacity-85">雜項/工具</span>
-  </div>
+        <div class="flex items-center gap-2">
+          <code class="px-2 py-1 rounded bg-white/5">docs:</code><span class="opacity-85">文件</span>
+        </div>
+        <div class="flex items-center gap-2">
+          <code class="px-2 py-1 rounded bg-white/5">chore:</code><span class="opacity-85">雜項/工具</span>
+        </div>
 
-  <div class="flex items-center gap-2">
-    <code class="px-2 py-1 rounded bg-white/5">refactor:</code><span class="opacity-85">重構</span>
-  </div>
-  <div class="flex items-center gap-2">
-    <code class="px-2 py-1 rounded bg-white/5">test:</code><span class="opacity-85">測試</span>
-  </div>
+        <div class="flex items-center gap-2">
+          <code class="px-2 py-1 rounded bg-white/5">refactor:</code><span class="opacity-85">重構</span>
+        </div>
+        <div class="flex items-center gap-2">
+          <code class="px-2 py-1 rounded bg-white/5">test:</code><span class="opacity-85">測試</span>
+        </div>
 </div>
 
   <div class="mt-4 text-sm opacity-70">
