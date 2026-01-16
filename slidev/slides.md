@@ -37,7 +37,7 @@ class: text-left
   </div>
 
   <div class="mt-8 text-base opacity-70">
-    講師：yuyuedeluo　|　版本：v1.0
+    講師：yuyuedeluo　|　版本：v1.1
   </div>
 </div>
 
