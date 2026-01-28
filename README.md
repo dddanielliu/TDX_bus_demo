@@ -50,6 +50,7 @@ npm run dev -- --host
 
 ## 啟動 Slidev（投影片簡報）
 ```powershell
+cd slidev
 npm install
 npx slidev
 ```
